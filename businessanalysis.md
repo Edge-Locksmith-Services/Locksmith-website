@@ -1,6 +1,6 @@
 # Introduction
 ## Business purpose
-The introduction of a website dedicated to the company would allow for 
+The introducation of a dedicated website to enhance the business of Edge Locksmith Services be allwoing for potential customers an easier way to locate infromation on the company, what services the company provides, how to get in contact with the company to schedule appointments. The website would enhance how the company operates and would also pressumbley lead to an increase in business due to information about the company being easier to obtain. 
 ## Business scope
 The business domain is Edge Locksmith Services INC. The business activities would include re-keying locks, replacing and repairing door hardware, selling and installing new hardware, selling and servicing safe locks, and performing emergency services as required such as unlocking locked doors, vehicles, and replacing lost keys. The website would allow for a wider reach to potential customers and also allow for pertinent information such as pricing for service, what services are offered by the company, and how to reach the company to be listed in an easy to access way.  
 ## Overview
@@ -29,11 +29,11 @@ https://www.koonslocksmiths.com/ - For an example website of a similar company i
 # Business management requirements
 
 ## Business environment
-Abide by life-safety codes from the National Fire Protection Association(NFPA) that deals with ingress and egress from public buildings, local building codes as required by jurisdiction.
+
 ## Mission, goals, and objectives
-The system should be accurate, efficient, cost-effective, user friendly and expandable in the pursuit of the system purpose.  
+The website should be accurate, efficient, cost-effective, user friendly and expandable in the pursuit of the system purpose.  
 ## Business model
-We are excepting this program to be expendable, interactive, adaptable to the changing technology, and not be cost-prohibitive.   
+We are excepting this website to be expendable, interactive, adaptable to the changing technology, and not be cost-prohibitive.   
 ## Information environment
 
 # Business operational requirements
@@ -41,11 +41,12 @@ We are excepting this program to be expendable, interactive, adaptable to the ch
 ## Business processes
 
 ## Business operational policies and rules
-
+Abide by life-safety codes from the National Fire Protection Association(NFPA) that deals with ingress and egress from public buildings, local building codes as required by jurisdiction, Follow State and Federal laws as applicable, follow State and Federal accounting practices, Needs to have a license to practice, Bonding and insured is required, 
 ## Business operational constraints
-
+The devlopment and implenation of the website should be finished within the time frame as identified from the company principal officers.
+The devlopment of the webstie should not exccede the assigned budget from the company. 
 ## Business operational modes
-
+If the website is offline the site will display an error message and a way to contact the company such as email or telephone.
 ## Business operational quality
-
+The highest priority of would be inculde the contact infromation and name of the company.
 ## Business structure
