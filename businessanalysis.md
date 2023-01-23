@@ -6,19 +6,25 @@ The business domain is Edge Locksmith Services INC. The business activities woul
 ## Overview
 Major interal divisons within the company are the service divsion and accounting divsion. The service divsion handles any requsested servcies as well as making request to the accoutning divsion to purchase needed materials such as locks, key blanks, or any other needed equipment. The accounting divsion handles the finacnes of the company allocating funds for purhase of materials, salaries, and proccesing payments from customers.
 ## Definitions
-Lock Re-key
-Key Bitting
-Grand Master Key
-Sub Master Key
-Cross Keying
-High- Security Key
+Lock Re-key,
+Key Bitting,
+Grand Master Key,
+Sub Master Key,
+Cross Keying,
+High-Security Key
 ## Major stakeholders 
+
 Principal officers of the organization- Make decisions regarding company, Decide if the website should be implemented  
+
 Employers of the organization- The website would lead to higher business
+
 Customers who receive services from the business- Make use of the website to find infromation, 
 # References
+
 Thomas Edge, President of Edge Locksmith Services INC
+
 https://www.lockservice.ca/blogs/blog/375661-a-glossary-of-essential-locksmith-terms - For information regarding specfic terms and definations.
+
 https://www.koonslocksmiths.com/ - For an example website of a similar company in the area.
 # Business management requirements
 
