@@ -55,13 +55,13 @@ The highest priority of would be inculde the contact infromation and name of the
 ## 5.1 Preliminary operational concept
 
 ### a) operational policies and constraints;
-
+The system shall be easliy accessible and able to be accessed via the internet. The system shall only display infromation that the client determines is important for the company.  
 ### b) description of the proposed system;
-
+The system shall be a website which is used to list infomration about the company Edge Locksmith Services including how to contact the company, what services the company offers and other information determined by the client.
 ### c) modes of system operation;
-
+The system shall operate at all times when the internet is operational to allow for the use of the website by potential customers. 
 ### d) user classes and other involved personnel; and
-
+The primary user class would be the customers that are browsing the website. Other invloved personal would be the administrators of the website determing that the correct information is being displayed and the website is operational. 
 ### e) support environment.
 
 ## 5.2 Preliminary operational scenarios
@@ -69,15 +69,15 @@ The highest priority of would be inculde the contact infromation and name of the
 # 6. Other preliminary life-cycle concepts
 
 ## 6.1 Preliminary acquisition concept
-
+The system soultion will be acquired by sending stakeholders a form to fill out to determine the requiremnts that are needed for the devlopment of the system. Other methods to finding requiments will be used such as face-to-face meetings to determine specfic needs for the product. Face-to-face meetings will also be used to determine the best solution to the problem that is facing the company.
 ## 6.2 Preliminary deployment concept
-
+The system will be developed to the specfications of the client to meet the requirments that they had outlined in the ellication phase. The first deployment shall be madeup of a protype of the website to determine if the client is satisfied with direction that the system is going in. The second deployment shall include a more streamlined protype that is being prepared to be introudced and used as the company webstie. The third deployment shall be the release of the system to a full webstie that can be accessed by customers to find information about the company. 
 ## 6.3 Preliminary support concept
-
+The system shall be supported by an administrator that is to make any changes to the information that the company wants to make to the website, while also making sure the website is still functional and that it is accessible via internt search. The system shall be operated by a web hosting service to maintain the website. 
 ## 6.4 Preliminary retirement concept
-
+The system shall be retired when the company determines that website is no longer a worthwhile invsetment or the company has decided to pursue a different system than what was devloped. The saving any pertinent infromation must be conducted before the webstie shall be retired. The website shall show the new website url that the company has transitioned to inform the customers of the change. 
 # 7. Project Constraints
-
+That the project will be compleated within 6 months of the commissioning of the the porject. The project will also not exceed the set budget set by the company.
 # 8. Appendix
 
 ## 8.1 Acronyms and abbreviations
