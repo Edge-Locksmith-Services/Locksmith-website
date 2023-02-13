@@ -66,9 +66,9 @@ The system shall operate at all times when the internet is operational to allow 
 The primary user class would be the customers that are browsing the website. Other involved personal would be the administrators of the website determining that the correct information is being displayed and the website is operational.
 
 ### e) support environment.
-The support environment is that a adminstator for the website would be available to make changes to the website and to make sure that the website is running properly. 
+The support environment is that a administrator for the website would be available to make changes to the website and to make sure that the website is running properly. 
 ## 5.2 Preliminary operational scenarios
-
+Primary users such as the customers will make use of the prodcut by accessing the website via internet search thus accessing the website. The website will contain the infomration that is needed by customers to contact the company. The administrator will access the system via a tool that allows for the changing of the information on the website and searching for any errors that may be affecting the webstie.  
 # 6. Other preliminary life-cycle concepts
 
 ## 6.1 Preliminary acquisition concept
